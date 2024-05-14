@@ -11,7 +11,7 @@ fun main() {
     println("Hello World!")
 
     val directory = File("")
-    val cacheDirectoryPath = directory.absolutePath + File.separator + "Sample6" + File.separator + "cache"
+    val cacheDirectoryPath = directory.absolutePath + File.separator + "Test4DiskLruCache" + File.separator + "cache"
     println("cacheDirectory is: $cacheDirectoryPath")
 
     /**
